@@ -1,0 +1,14 @@
+{
+  "name": "Stratega Academy",
+  "short_name": "Stratega",
+  "description": "Academia internacional de liderazgo político, gobernanza y estrategia",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#11100E",
+  "theme_color": "#1C1918",
+  "icons": [
+    { "src": "/favicon.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "/favicon.png", "sizes": "512x512", "type": "image/png" }
+  ],
+  "lang": "es"
+}

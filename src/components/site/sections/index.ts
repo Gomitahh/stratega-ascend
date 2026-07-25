@@ -1,0 +1,12 @@
+export { SectionHeader } from "./SectionHeader";
+export { ColumnRail } from "./ColumnRail";
+export { IntroVisual } from "./IntroVisual";
+export { Hero } from "./Hero";
+export { AboutUs } from "./AboutUs";
+export { Faculty } from "./Faculty";
+export { Programs } from "./Programs";
+export { Testimonials } from "./Testimonials";
+export { Events } from "./Events";
+export { FAQ } from "./FAQ";
+export { FinalCTA } from "./FinalCTA";
+export { ContactSection } from "./ContactSection";
